@@ -1,5 +1,5 @@
 class()
 	{
-		public static void main("hello")
+		public static void main()
 	}
 
