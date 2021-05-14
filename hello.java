@@ -1,6 +1,8 @@
 class()
 	{
 		public static void main()
-			helloooooooo
 	}
+{
+system.out.println()
+}
 
